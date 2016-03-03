@@ -3,8 +3,7 @@ markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
-relative_permalinks: true
+permalink:        /:year/:slug
 
 # Setup
 title:            Hyde
